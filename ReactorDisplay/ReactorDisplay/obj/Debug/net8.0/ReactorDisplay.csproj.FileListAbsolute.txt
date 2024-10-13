@@ -1,0 +1,14 @@
+D:\CSharp_DataTypes\ReactorDisplay\ReactorDisplay\bin\Debug\net8.0\ReactorDisplay.exe
+D:\CSharp_DataTypes\ReactorDisplay\ReactorDisplay\bin\Debug\net8.0\ReactorDisplay.deps.json
+D:\CSharp_DataTypes\ReactorDisplay\ReactorDisplay\bin\Debug\net8.0\ReactorDisplay.runtimeconfig.json
+D:\CSharp_DataTypes\ReactorDisplay\ReactorDisplay\bin\Debug\net8.0\ReactorDisplay.dll
+D:\CSharp_DataTypes\ReactorDisplay\ReactorDisplay\bin\Debug\net8.0\ReactorDisplay.pdb
+D:\CSharp_DataTypes\ReactorDisplay\ReactorDisplay\obj\Debug\net8.0\ReactorDisplay.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp_DataTypes\ReactorDisplay\ReactorDisplay\obj\Debug\net8.0\ReactorDisplay.AssemblyInfoInputs.cache
+D:\CSharp_DataTypes\ReactorDisplay\ReactorDisplay\obj\Debug\net8.0\ReactorDisplay.AssemblyInfo.cs
+D:\CSharp_DataTypes\ReactorDisplay\ReactorDisplay\obj\Debug\net8.0\ReactorDisplay.csproj.CoreCompileInputs.cache
+D:\CSharp_DataTypes\ReactorDisplay\ReactorDisplay\obj\Debug\net8.0\ReactorDisplay.dll
+D:\CSharp_DataTypes\ReactorDisplay\ReactorDisplay\obj\Debug\net8.0\refint\ReactorDisplay.dll
+D:\CSharp_DataTypes\ReactorDisplay\ReactorDisplay\obj\Debug\net8.0\ReactorDisplay.pdb
+D:\CSharp_DataTypes\ReactorDisplay\ReactorDisplay\obj\Debug\net8.0\ReactorDisplay.genruntimeconfig.cache
+D:\CSharp_DataTypes\ReactorDisplay\ReactorDisplay\obj\Debug\net8.0\ref\ReactorDisplay.dll
